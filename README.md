@@ -1,2 +1,0 @@
-# chilli
-by _jalapeno
